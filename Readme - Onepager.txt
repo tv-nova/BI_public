@@ -5,6 +5,7 @@ Name:
 Please name Picture as season_id. It is not necessary, but it will be more clear for next steps.
 
 How to get link for powerbi:
+Click on your new picture. You can see the picture web url in your web browser.
 The link must be manually edited from this:
 https://github.com/tv-nova/BI_public/blob/main/67426.jpg
 To this:
