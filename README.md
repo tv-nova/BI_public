@@ -15,3 +15,7 @@ It means replace GitHub with raw.githubusercontent AND delete the blob/ part. Or
 Now you have the link PowerBI can read and download. Make sure it ends with .jpg
 <br>
 Copy the link and the season number for new seasons into the document, so PBI can match the season and Picture. (to be specified). 
+<br>
+So 2 main rules:<br>
+**1 - only JPG**
+**2 - name = season_id**
