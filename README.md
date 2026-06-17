@@ -17,5 +17,5 @@ Now you have the link PowerBI can read and download. Make sure it ends with .jpg
 Copy the link and the season number for new seasons into the document, so PBI can match the season and Picture. (to be specified). 
 <br>
 So 2 main rules:<br>
-**1 - only JPG**
+**1 - only JPG**<br>
 **2 - name = season_id**
